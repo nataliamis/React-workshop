@@ -1,10 +1,10 @@
 # React-workshop :boom:
 The workshop was done on the bootcamp I was attending.
-This is a SPA where you can choose your cat and check 
-if you want to love children.
+This is a SPA (single-page application) where you can choose your cat by his name and check 
+if you want to cat likes children.
 Enjoy!
 ```
-:exclamation::exclamation:This page is not finished yet, I will add styles to it in the next few days!
+:exclamation:This page is not finished yet, I will add styles to it in the next few days!
 ```
 ## Technologies which I used!
 > HTML, Sass, React
